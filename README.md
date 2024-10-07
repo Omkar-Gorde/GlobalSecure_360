@@ -1,6 +1,6 @@
 # 🛡️ Welcome to IDPR - International Data Privacy Regulation Project 🎉
 
-At **IDPR**, we believe in a future where **data privacy** is both **effortless** and **absolute**. Our platform helps companies and individuals secure sensitive data, avoid fraud, and comply with global privacy laws seamlessly. Whether you’re a **FinTech startup** or a large enterprise, IDPR is here to ensure your data remains untouchable and private. 🌐🔐
+At **IDPR**, we believe in a future where **data privacy** is both **effortless** and **absolute**. Our platform helps corporates and individuals secure sensitive data, avoid fraud, and comply with global privacy laws seamlessly. Whether you’re a **FinTech startup** or a large enterprise, IDPR is here to ensure your data remains untouchable and private. 🌐🔐
 
 ---
 
