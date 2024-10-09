@@ -9,7 +9,7 @@ At **IDPR**, we believe in a future where **data privacy** is both **effortless*
 In today’s world, **data is the new currency**. From **PAN IDs** in financial transactions to sensitive personal details stored by online platforms, this surge in data usage presents major security and privacy risks. IDPR tackles these issues by offering businesses a **robust, unified framework** for:
 - Verifying identities 🔍
 - Encrypting sensitive information 🛡️
-- Complying with stringent international data privacy laws (like GDPR & CCPA) 📜🛡️
+- Complying with stringent international data privacy laws (like GDPR and CCPA) 📜🛡️
 
 ---
 
